@@ -1,7 +1,6 @@
 "use client";
 import React, { useState } from 'react';
 import { Calendar, Upload, Bell, Home, AlertTriangle, CheckCircle, Clock, FileText, Plus, X, Settings } from 'lucide-react';
-   
 // Mock data
 const MOCK_PROPERTIES = [
   {
